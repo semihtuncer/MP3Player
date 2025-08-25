@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "dfr_micro_sd")(type "KiCad")(uri "${KIPRJMOD}/dfr_micro_sd.kicad_sym")(options "")(descr "")(disabled)(hidden))
+  (lib (name "wemos_d1_mini")(type "KiCad")(uri "${KIPRJMOD}/wemos_d1_mini.kicad_sym")(options "")(descr "")(disabled)(hidden))
+  (lib (name "mp3_player_symbols")(type "KiCad")(uri "${KIPRJMOD}/mp3_player_symbols.kicad_sym")(options "")(descr ""))
+)
