@@ -10,7 +10,7 @@
 ### :dart: Features
 - SD card slot to store your taste in music.
 - Several buttons to control the device.
-- Bluetooth 4.2 connection to your favourite headphones.
+- Bluetooth 4.2 connection to your favorite headphones.
 
 # :notebook_with_decorative_cover: Table of Contents
 
