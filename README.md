@@ -11,7 +11,7 @@
 - SD card slot to store your taste in music.
 - Several buttons to control the device.
 - Bluetooth 4.2 connection to your favorite headphones.
-- Battery management module for fast type-c charging.
+- Battery management module for fast type-c charging nd 4 hours of streaming.
   
 # :notebook_with_decorative_cover: Table of Contents
 
